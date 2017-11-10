@@ -1,0 +1,14 @@
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache

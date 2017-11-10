@@ -1,0 +1,28 @@
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\bin\Debug\FallingBlocks.exe.config
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\bin\Debug\FallingBlocks.exe
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\bin\Debug\FallingBlocks.pdb
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks.csprojResolveAssemblyReference.cache
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks_MarkupCompile.cache
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks_MarkupCompile.lref
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks.g.resources
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks.Properties.Resources.resources
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks.csproj.GenerateResource.Cache
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks.exe
+E:\Pasi\VisualStudioProjects\debuggertest\WpfApplication1\WpfApplication1\obj\Debug\FallingBlocks.pdb
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\bin\Debug\FallingBlocks.exe.config
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\bin\Debug\FallingBlocks.exe
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\bin\Debug\FallingBlocks.pdb
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks.csprojResolveAssemblyReference.cache
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\MainWindow.g.cs
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\App.g.cs
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks_MarkupCompile.cache
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks_MarkupCompile.lref
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\MainWindow.baml
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks.g.resources
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks.Properties.Resources.resources
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks.csproj.GenerateResource.Cache
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks.exe
+E:\VSTeamServices\Repos\Falling Blocks Game\FallingBlocks\obj\Debug\FallingBlocks.pdb
